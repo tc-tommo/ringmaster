@@ -59,11 +59,10 @@ Problems are printed to the browser console.
 
 
 
-<h1 align="center">THANKS FOR VISITING</h1>
 <h1 align="center">
-    <a href="https://projectshare.comp-soc.com">⏮</a>
-    <a href="https://tommo.page">⏭</a>
-</h1>
+    <a href="https://projectshare.comp-soc.com">⏮</a>    THANKS FOR VISITING    
+    <a href="https://tommo.page">⏭</a></h1>
+<h1 align="center">
 
 
 
