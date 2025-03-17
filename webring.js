@@ -10,10 +10,10 @@
             return response.text();
         })
         .then(text => {
-            // Split the file text into an array: each non-empty line is assumed to be a site hostname.
+            // Split the file text into an array: each non-empty  line unless a # comment is assumed to be a site hostname.
             let sites = text.trim()
                 .split(/\r?\n/)
-                .map(line => line.trim())
+                .map(line => line.split('#')[0].trim())
                 .filter(line => line.length > 0);
 
             if (sites.length === 0) {
