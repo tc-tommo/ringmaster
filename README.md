@@ -1,21 +1,22 @@
+
 <h1 align="center">
-    <a href="https://projectshare.comp-soc.com">Previous ⏮</a>
-    <a href="https://tommo.page">⏭ Next</a>
+  <a href="https://projectshare.comp-soc.com">previous...</a>
+  <a href="https://projectshare.comp-soc.com/">
+    <img src="https://github.com/user-attachments/assets/66d23bd7-34c0-4b94-943e-ea60534462a0" alt="image" style="max-width: 100%; height: auto;">
+  </a>
+  <a href="https://tommo.page">...next</a>
 </h1>
-<br><br>
-
-[![image](https://github.com/user-attachments/assets/66d23bd7-34c0-4b94-943e-ea60534462a0)](https://projectshare.comp-soc.com/)
-
-
-
 
 <br><br>
 
 
 # ⭕ The Project Share™ webring manager 
-----
+This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
+
 
 <br><br>
+
+----
 # 📐 Set it up
 ### 1. Go to [sites.txt](https://github.com/tc-tommo/ringmaster/edit/main/sites.txt) and submit a PR
 
