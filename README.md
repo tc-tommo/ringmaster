@@ -1,12 +1,16 @@
-# ---------------------------------------------------------------------[⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)--------------------------------------------------------------------
-
-# The Project Share™ ringmaster
+<h1 align="center">
+    <a href="https://projectshare.comp-soc.com">Previous ⏮</a>
+    <a href="https://tommo.page">⏭ Next</a>
+</h1>
+<br><br>
 
 [![image](https://github.com/user-attachments/assets/66d23bd7-34c0-4b94-943e-ea60534462a0)](https://projectshare.comp-soc.com/)
 
 
 
 
+<br><br>
+# The Project Share™ ringmaster
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
 
 ----
@@ -52,14 +56,15 @@ Problems are printed to the browser console.
 - **Console Errors:**  
   Any network or parsing errors will be printed to the browser console. Open the Developer Tools to view detailed error messages.
 
-----
-####  I have a cool idea
-Submit a PR!
 
 
+<h1 align="center">THANKS FOR VISITING</h1>
+<h1 align="center">
+    <a href="https://projectshare.comp-soc.com">⏮</a>
+    <a href="https://tommo.page">⏭</a>
+</h1>
 
-# -----------------------------------------------------------------------------------------THANKS FOR VISITING-----------------------------------------------------------------------------------------
-# ---------------------------------------------------------------------[⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)--------------------------------------------------------------------
+
 
 
 
