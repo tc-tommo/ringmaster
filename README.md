@@ -1,3 +1,5 @@
+#                                                                                  [⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)
+
 # The Project Share™ ringmaster
 
 [![image](https://github.com/user-attachments/assets/66d23bd7-34c0-4b94-943e-ea60534462a0)](https://projectshare.comp-soc.com/)
@@ -7,6 +9,7 @@
 
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
 
+----
 # Set it up
 Go to [sites.txt](https://github.com/tc-tommo/ringmaster/edit/main/sites.txt) and submit a PR
 
@@ -49,15 +52,14 @@ Problems are printed to the browser console.
 - **Console Errors:**  
   Any network or parsing errors will be printed to the browser console. Open the Developer Tools to view detailed error messages.
 
-
-# I have a cool idea
+----
+####  I have a cool idea
 Submit a PR!
 
 
 
-
 # THANKS FOR VISITING
-# [⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)
+#                                                                                  [⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)
 
 
 
