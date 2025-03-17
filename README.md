@@ -3,7 +3,6 @@
 [![image](https://github.com/user-attachments/assets/66d23bd7-34c0-4b94-943e-ea60534462a0)](https://projectshare.comp-soc.com/)
 
 
-[⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)
 
 
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
@@ -54,6 +53,12 @@ Problems are printed to the browser console.
 
 # I have a cool idea
 Submit a PR!
+
+
+
+
+# THANKS FOR VISITING
+# [⏮](https://projectshare.comp-soc.com) [⏭](https://tommo.page)
 
 
 
