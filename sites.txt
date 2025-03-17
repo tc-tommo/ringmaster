@@ -1,3 +1,6 @@
+projectshare.comp-soc.com # DO NOT TOUCH THIS LINE
+github.com/tc-tommo/ringmaster/blob/main/README.md # DO NOT TOUCH +1
+tommo.page  # bagsied (THIS HAS BEEN HARDCODED INTO THE README 😜)
+# ======== Add your sites here ========
 andrewtwigg.me
-tommo.page
 tomasmaillo.com
