@@ -19,7 +19,7 @@ The script is very dumb so take care to format correctly! or you will lose snack
 ## Add the Script to Your Project:**
    - Option 1: Save `webring.js` in your site sources
    - Option 2: copy this
-      `<script src="https://raw.githubusercontent.com/tc-tommo/ringmaster/refs/heads/main/webring.js"></script>`
+      ```<script src="https://raw.githubusercontent.com/tc-tommo/ringmaster/refs/heads/main/webring.js"></script>```
      
 
 ## **Add buttons**
