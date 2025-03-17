@@ -9,6 +9,8 @@
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
 
 # Set it up
+Go to [sites.txt](https://github.com/tc-tommo/ringmaster/edit/main/sites.txt) and submit a PR
+
 ```
 tommo.page
 tomasmaillo.com
