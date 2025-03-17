@@ -14,7 +14,7 @@
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
 
 ----
-# Set it up
+# 📐 Set it up
 Go to [sites.txt](https://github.com/tc-tommo/ringmaster/edit/main/sites.txt) and submit a PR
 
 ```
@@ -25,27 +25,27 @@ tomasmaillo.com
 The script is very dumb so take care to format correctly! or you will lose snack privileges for breaking it.
 
 ## 1. Add the Script to Your Project:
-   - **Option 1**: Save `webring.js` in your site sources
+   - **Option 1**: Save `webring.js` in your site sources and include it
    - **Option 2**: copy this
 ```html
-<script src="https://raw.githubusercontent.com/tc-tommo/ringmaster/refs/heads/main/webring.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
 ```
 
 ## 2. Previous/Next Buttons
 **YOU NEED 2 BUTTONS WITH IDS `webring-prev` and `webring-next`**:
 ### Example:
  ```html
- <!-- Example in your index.html -->
+ <!-- Example index.html -->
  <button id="webring-prev">Previous Site</button>
  <button id="webring-next">Next Site</button>
  
- <!-- Include the webring script -->
- <script src="https://raw.githubusercontent.com/tc-tommo/ringmaster/refs/heads/main/webring.js"></script>
+ <!-- Include the webring script from step 1. -->
+<script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
  </body>
  ```
 
-## 3. Customization
-IDs must be `webring-prev` and `webring-next`, style as you wish
+## 3. Customisation
+Document IDs must be `webring-prev` and `webring-next`, style as you wish
 
 ## ! Fix Problems
 Problems are printed to the browser console.
