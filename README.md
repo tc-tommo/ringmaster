@@ -11,7 +11,7 @@
 
 
 # ⭕ The Project Share™ webring manager 
-This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
+This wee repo handles the project share webring. Add your site to *sites.txt* to get started!
 
 
 <br><br>
