@@ -1,6 +1,6 @@
 (function() {
     // URL to the raw version of your gist text file (update if necessary)
-    const rawUrl = 'https://gist.githubusercontent.com/tc-tommo/96e695cef6f94ba68510af268795a224/raw/ringmaster.txt';
+    const rawUrl = 'https://raw.githubusercontent.com/tc-tommo/ringmaster/refs/heads/main/sites.txt';
 
     fetch(rawUrl, { cache: 'no-cache' })
         .then(response => {
