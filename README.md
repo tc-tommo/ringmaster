@@ -15,7 +15,7 @@ This wee repo that handles the project share webring. Add your site to *sites.tx
 
 ----
 # 📐 Set it up
-Go to [sites.txt](https://github.com/tc-tommo/ringmaster/edit/main/sites.txt) and submit a PR
+### 1. Go to [sites.txt](https://github.com/tc-tommo/ringmaster/edit/main/sites.txt) and submit a PR
 
 ```
 tommo.page
@@ -24,24 +24,25 @@ tomasmaillo.com
 ```
 The script is very dumb so take care to format correctly! or you will lose snack privileges for breaking it.
 
-## 1. Add the Script to Your Project:
-   - **Option 1**: Save `webring.js` in your site sources and include it
-   - **Option 2**: copy this
+### 2. Include `webring.js`
+   - **Option 1**: copy this
 ```html
 <script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
 ```
+   - **Option 2**: Include [`webring.js`](https://github.com/tc-tommo/ringmaster/blob/main/webring.js) in your site sources
 
-## 2. Previous/Next Buttons
-**YOU NEED 2 BUTTONS WITH IDS `webring-prev` and `webring-next`**:
-### Example:
+### 3. Add buttons to your site
+Add 2 hyperlinks with IDs `webring-prev` and `webring-next`
+
+### Full Example:
  ```html
- <!-- Example index.html -->
- <button id="webring-prev">Previous Site</button>
- <button id="webring-next">Next Site</button>
- 
- <!-- Include the webring script from step 1. -->
 <script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
- </body>
+<footer>
+    <div class="webring-nav text-center mt-3">
+        <button id="webring-prev" class="btn btn-outline-secondary">⏮</button>
+        <button id="webring-next" class="btn btn-outline-secondary">⏭</button>
+    </div>
+</footer>    
  ```
 
 ## 3. Customisation
