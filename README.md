@@ -41,7 +41,7 @@ The script is very dumb so take care to format correctly! or you will lose snack
 ## Customization
 IDs must be `webring-prev` and `webring-next`, style as you wish
 
-# Fix Problems
+## Fix Problems
 Problems are printed to the browser console.
 - **Current Host Not Found:**  
   The script uses `window.location.hostname` (sans any leading `www.`). Ensure your Gist entries match the hostname as it appears in the browser.
