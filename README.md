@@ -1,6 +1,6 @@
 # The Project Share™ ringmaster
 
-[8888888b.                   d8b                   888    
+8888888b.                   d8b                   888    
 888   Y88b                  Y8P                   888    
 888    888                                        888    
 888   d88P 888d888 .d88b.  8888  .d88b.   .d8888b 888888 
@@ -18,7 +18,11 @@ Y88b.      888
     "Y88b. 888 "88b     "88b 888P"  d8P  Y8b             
       "888 888  888 .d888888 888    88888888             
 Y88b  d88P 888  888 888  888 888    Y8b.                 
- "Y8888P"  888  888 "Y888888 888     "Y8888](https://projectshare.comp-soc.com/)
+ "Y8888P"  888  888 "Y888888 888     "Y8888
+
+
+![image](https://github.com/user-attachments/assets/7a2793c0-9345-4466-9707-b4488015d9d5)
+
 
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
 
@@ -60,5 +64,9 @@ Problems are printed to the browser console.
   Check that your Gist file has valid, non-empty lines with the hostnames.
 - **Console Errors:**  
   Any network or parsing errors will be printed to the browser console. Open the Developer Tools to view detailed error messages.
+
+
+# I have a cool idea
+Submit a PR!
 
 
