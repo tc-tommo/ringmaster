@@ -10,7 +10,7 @@
 
 
 <br><br>
-# The Project Share™ ringmaster
+# 💍 The Project Share™ ringmaster
 This wee repo that handles the project share webring. Add your site to *sites.txt* to get started!
 
 ----
