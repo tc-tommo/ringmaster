@@ -17,15 +17,14 @@ tomasmaillo.com
 ```
 The script is very dumb so take care to format correctly! or you will lose snack privileges for breaking it.
 
-## Add the Script to Your Project:
+## 1. Add the Script to Your Project:
    - **Option 1**: Save `webring.js` in your site sources
    - **Option 2**: copy this
 ```html
 <script src="https://raw.githubusercontent.com/tc-tommo/ringmaster/refs/heads/main/webring.js"></script>
-```
-     
+``
 
-## **Add buttons**
+## 2. Previous/Next Buttons
 **YOU NEED 2 BUTTONS WITH IDS `webring-prev` and `webring-next`**:
 ### Example:
  ```html
@@ -38,10 +37,10 @@ The script is very dumb so take care to format correctly! or you will lose snack
  </body>
  ```
 
-## Customization
+## 3. Customization
 IDs must be `webring-prev` and `webring-next`, style as you wish
 
-## Fix Problems
+## ! Fix Problems
 Problems are printed to the browser console.
 - **Current Host Not Found:**  
   The script uses `window.location.hostname` (sans any leading `www.`). Ensure your Gist entries match the hostname as it appears in the browser.
