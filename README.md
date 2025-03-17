@@ -38,9 +38,9 @@ Add 2 hyperlinks with IDs `webring-prev` and `webring-next`
  ```html
 <script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
 <footer>
-    <div class="webring-nav text-center mt-3">
-        <button id="webring-prev" class="btn btn-outline-secondary">⏮</button>
-        <button id="webring-next" class="btn btn-outline-secondary">⏭</button>
+    <div class="webring">
+        <button id="webring-prev">⏮</button>
+        <button id="webring-next">⏭</button>
     </div>
 </footer>    
  ```
