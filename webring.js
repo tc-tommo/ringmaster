@@ -1,7 +1,7 @@
 (function() {
     // URL to the raw version of your gist text file (update if necessary)
     // use JSdelivr so there is no annoying CORS problems
-    const rawUrl = 'https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/sites.txt';
+    const rawUrl = 'tommo.page/ringmaster/sites.txt';
 
     fetch(rawUrl, { cache: 'no-cache' })
         .then(response => {
