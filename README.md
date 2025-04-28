@@ -39,7 +39,7 @@ Add 2 hyperlinks with IDs `webring-prev` and `webring-next`
 
 ### Full Example:
  ```html
-<script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
+<script src="https://tommo.page/ringmaster/webring.js"></script>
 <footer>
     <div class="webring">
         <button id="webring-prev">⏮</button>
