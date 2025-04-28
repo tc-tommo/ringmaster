@@ -30,9 +30,9 @@ The script is very dumb so take care to format correctly! or you will lose snack
 ### 2. Include `webring.js`
    - **Option 1**: copy this
 ```html
-<script src="https://cdn.jsdelivr.net/gh/tc-tommo/ringmaster@main/webring.js"></script>
+<script src="https://tommo.page/ringmaster/webring.js"></script>
 ```
-   - **Option 2**: Include [`webring.js`](https://github.com/tc-tommo/ringmaster/blob/main/webring.js) in your site sources
+   - **Option 2**: Include [`webring.js`](https://tommo.page/ringmaster/webring.js) in your site sources
 
 ### 3. Add buttons to your site
 Add 2 hyperlinks with IDs `webring-prev` and `webring-next`
